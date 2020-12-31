@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/shopping-site-mock/static/css/main.5e7c276e.chunk.css",
+    "main.js": "/shopping-site-mock/static/js/main.02e9c167.chunk.js",
+    "main.js.map": "/shopping-site-mock/static/js/main.02e9c167.chunk.js.map",
+    "runtime-main.js": "/shopping-site-mock/static/js/runtime-main.773cc0df.js",
+    "runtime-main.js.map": "/shopping-site-mock/static/js/runtime-main.773cc0df.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/shopping-site-mock/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.a3ec88ff.chunk.js": "/shopping-site-mock/static/js/2.a3ec88ff.chunk.js",
+    "static/js/2.a3ec88ff.chunk.js.map": "/shopping-site-mock/static/js/2.a3ec88ff.chunk.js.map",
+    "static/js/3.ac2eb543.chunk.js": "/shopping-site-mock/static/js/3.ac2eb543.chunk.js",
+    "static/js/3.ac2eb543.chunk.js.map": "/shopping-site-mock/static/js/3.ac2eb543.chunk.js.map",
+    "index.html": "/shopping-site-mock/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/shopping-site-mock/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.5e7c276e.chunk.css.map": "/shopping-site-mock/static/css/main.5e7c276e.chunk.css.map",
+    "static/js/2.a3ec88ff.chunk.js.LICENSE.txt": "/shopping-site-mock/static/js/2.a3ec88ff.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.773cc0df.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.a3ec88ff.chunk.js",
+    "static/css/main.5e7c276e.chunk.css",
+    "static/js/main.02e9c167.chunk.js"
+  ]
+}
