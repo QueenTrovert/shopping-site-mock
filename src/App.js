@@ -19,7 +19,6 @@ function App() {
           <Col xs={2} className="d-none d-lg-block" style={{ width: '100%'}}><Categories /></Col>
           <Col><Deals /></Col>
         </Row>
-      
       <Products />
       </Container>
     </div>

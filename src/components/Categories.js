@@ -5,7 +5,7 @@ import Container from 'react-bootstrap/Container';
 
 function Categories() {
     return (
-        <Container className="d-flex">
+        <Container className="d-flex ">
             
         <ButtonGroup vertical>
         <Button className="btn-secondary">Button</Button>
